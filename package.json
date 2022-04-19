@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node app.js"
   },
-  "author": "Shay DeWael",
+  "author": "Raghava Reddy",
   "license": "MIT",
   "dependencies": {
     "discord-interactions": "^3.2.0",
